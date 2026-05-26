@@ -13,6 +13,8 @@
   1. 在浏览器 / PDF / Word / 代码编辑器等任意软件中选中英文文本
   2. 按下 `Alt+Z`
   3. 鼠标旁弹出翻译结果，阅读后点击任意位置或按 `Esc` 关闭
+  4. <img width="1920" height="1200" alt="b7591f4e39f53fc53504b9c50ec46b7a" src="https://github.com/user-attachments/assets/d207c7a0-b7f4-4ca8-beb4-567345efc871" />
+
 
   ## 安装
 
